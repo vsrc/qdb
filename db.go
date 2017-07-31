@@ -3,7 +3,7 @@ package qdb
 import (
 	"log"
 
-	"github.com/qapi/gorm"
+	"github.com/vsrc/gorm"
 )
 
 type DBConf struct {
